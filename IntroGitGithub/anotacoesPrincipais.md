@@ -9,15 +9,23 @@
 # Navegação via command line interface e instalação
 
 GUI ou CLI?
+
 GUI -> interface gráfica
+
 CLI -> não tem interface gráfica (command line interface)
 
-| Windows | Unix |
-| -------- | ------- |
-| cd | cd |
-| dir | ls |
-| mikdir |mikdir|
-| del/rmdir | rm -rf |
+| Windows | Unix | Função |
+| -------- | ------- | -------|
+| cd | cd | entra ou sai de uma pasta |
+| dir | ls | te dá uma lista de diretórios que estão dentro da pasta que você está |
+| mkdir |mkdir| cria uma pasta |
+| del/rmdir | rm -rf | |
+| cls | clear (Ctrl + L) |"limpa" o terminal  |
+
+cd / -> te leva para a base do diretório C 
+
+cd .. -> volta/ sai de uma pasta
+
 # Como o git funciona ?
 
 # Comandos
