@@ -31,6 +31,8 @@ echo <frase> > nomeArquivo.txt -> joga a frase no arquivo
 del nomeDaPasta -> deleta todo o conteúdo da pasta, mas não a pasta em si
 rmdir workspace /S /Q -> remove o repositório
 
+git pull origin -> "puxa" as mudanças feitas no github para o rep local que você escolheu
+
 # Como o git funciona ?
 
 SHA -> Secure Hash Algorithm
