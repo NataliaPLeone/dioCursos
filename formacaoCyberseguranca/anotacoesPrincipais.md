@@ -12,3 +12,13 @@ O princípio do menor privilégio/ acesso de menor privilégio → o conceito de
 CEH
 ECSA
 # Fundamentos da cybersegurança
+
+## Windows
+
+## Linux
+- Unix é o antecedente do Linux
+- Vantagens de C: consegue ir praticamente ao nível do hardware
+- Linux na verdade é o Kernell, o SO são as Distros
+### Vulnerabilidades do Linux
+- CVSS (pesquisar sobre)
+https://distrowatch.com/dwres.php?resource=family-tree
