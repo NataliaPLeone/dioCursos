@@ -22,3 +22,9 @@ ECSA
 ### Vulnerabilidades do Linux
 - CVSS (pesquisar sobre)
 https://distrowatch.com/dwres.php?resource=family-tree
+
+## Fundamentos de Redes de Computadores
+
+# Testes de Invasão e Busca Por Vulnerabilidade
+
+# Exploração de Vulnerabilidade e Pós-Exploração
